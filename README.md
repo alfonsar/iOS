@@ -2,5 +2,5 @@
 iOS projects
 
 
-1. Basketball Sign Up Mock App
-2. Simple Calculator App
+1.(App Swoosh) ->  Basketball Sign Up Mock App
+2.(Window-Shopper) ->Simple Calculator App
